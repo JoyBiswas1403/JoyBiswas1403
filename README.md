@@ -1,105 +1,97 @@
-<!-- Profile Banner GIF -->
-<p align="center">
-  <img src="https://github.com/JoyBiswas1403/JoyBIswas/blob/main/assests/Joy%20Biswas%20(4).gif?raw=true" alt="Joy Biswas Banner" width="100%" />
-</p>
+# Hi there, I'm Joy Biswas 👋
 
-# 👋 Hi, I'm Joy Biswas  
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/joy-biswas-257212345/)
+  [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:bjoy1403@gmail.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=google-chrome)](https://joybiswas.dev)
 
-🎓 *Final-year Computer Science & Engineering (CSE) Student*  
-💡 Passionate about *AI, Machine Learning & Web Development*  
-🔭 Currently working on: *[Resume Analyzer with BERT](#-featured-projects)*  
-📫 Reach me:  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/joy-biswas-257212345/) 
-[![Gmail](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:bjoy1403@gmail.com)  
-
----
+</div>
 
 ## 🚀 About Me
-I’m a tech enthusiast with hands-on experience in *Python, Machine Learning, and Web Development*.  
-I enjoy turning *data into actionable insights* and creating *intelligent applications* that solve real-world problems.  
-Always curious, always learning, and always building. 🚀  
 
----
+I'm a **4th-year MTech student** specializing in **AI/ML, Data Science, and Full Stack Development** at VIT Bhopal. I build intelligent systems that solve real-world problems—from privacy-preserving federated learning frameworks to production-ready NLP applications.
 
-## 🛠 Skills
+- 🔭 Currently working on: **Federated Learning with Event-Triggered Privacy Anchors**
+- 🌱 Learning: **Advanced Deep Learning, MLOps, and Distributed Systems**
+- 💡 Interested in: **Privacy-Preserving AI, NLP, and Scalable ML Systems**
+- 🎯 Goal: Contributing to open-source AI/ML projects and building impactful products
+- ⚡ Fun fact: Football captain who codes—I bring the same strategic thinking from the field to solving technical problems
 
-*Languages:*  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+## 🛠️ Tech Stack
 
-*Data Science & AI:*  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) 
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white) 
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) 
-![BERT](https://img.shields.io/badge/BERT-000000?style=for-the-badge&logo=google&logoColor=white)
+### **Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
-*Web Development:*  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) 
+### **AI/ML & Data Science**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### **Web Development**
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-*Tools:*  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) 
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+### **Tools & Platforms**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
----
+## 🔥 Featured Projects
 
-## 📂 Featured Projects
+### 🏥 [Clinical Healthcare Multi-Agent Research Assistant](https://github.com/JoyBiswas1403/Clinical_Healthcare_Multi-agent_Research_Assistant)
+Multi-agent AI system for healthcare research with specialized agents for literature review, data analysis, and clinical decision support.
+- **Tech:** Python, LangChain, OpenAI, Vector DBs
+- **Impact:** Automated research workflows for clinical professionals
 
-| Project | Description | Tech Stack | Link |
-|---------|-------------|------------|------|
-| *Resume Analyzer with BERT* | AI-powered tool that analyzes resumes & matches them to job descriptions | Python, BERT, Flask | [🔗 Repo](https://github.com/JoyBiswas1403/resume-analyzer) |
-| *Portfolio Website* | Personal portfolio showcasing my projects & skills | HTML, CSS, JS | [🔗 Live](https://joybiswas1403.github.io/) |
-| *Stock Price Notifier* | Sends alerts when stock prices cross thresholds | Python, APIs | [🔗 Repo](#) |
+### 🔐 [Federated Learning with Privacy Anchors](https://github.com/JoyBiswas1403/Federated-Learning-ETPA)
+Novel FL framework using Event-Triggered Privacy Anchors for enhanced data privacy in non-IID settings.
+- **Tech:** PyTorch, Differential Privacy, VAEs, GANs
+- **Achievement:** Balanced accuracy and privacy with 30% reduced communication cost
 
-> 💡 Adding *GIF demos or screenshots* for each project will make this section visually engaging.
+### 📊 [Resume Analyzer with Leaderboard](https://github.com/JoyBiswas1403/Resume_Analyzer_Leaderboard_System)
+Full-stack NLP application for intelligent resume screening and candidate ranking.
+- **Tech:** BERT, Flask, React, MongoDB
+- **Impact:** 35% improved matching accuracy, 50% reduced screening time
 
----
+### 📈 [Stock Trend Predictor Dashboard](https://github.com/JoyBiswas1403/Stock-Trend-Predictor)
+Interactive ML dashboard with Bi-LSTM model and technical indicators for stock market analysis.
+- **Tech:** TensorFlow, LSTM, Streamlit, Plotly
+- **Features:** Real-time predictions, customizable parameters, CSV export
 
-## 📊 GitHub Stats & Activity
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoyBiswas1403&show_icons=true&theme=radical" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoyBiswas1403&layout=compact&theme=radical" height="170" />
-</p>
+<div align="center">
+  
+  ![Joy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoyBiswas1403&show_icons=true&theme=radical&hide_border=true&count_private=true)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoyBiswas1403&layout=compact&theme=radical&hide_border=true)
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JoyBiswas1403&theme=radical&hide_border=true)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=JoyBiswas1403&theme=radical&hide_border=true" height="170" />
-</p>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoyBiswas1403&theme=react-dark&hide_border=true" />
-</p>
+## 📫 Let's Connect!
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JoyBiswas1403&color=blue&style=flat-square&label=Visitors" />
-</p>
+I'm always open to interesting conversations, collaboration opportunities, and new challenges. Feel free to reach out!
 
----
-
-## 🏆 Achievements & Certifications
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JoyBiswas1403&theme=radical&no-frame=true&margin-w=10&row=1&column=6" />
-</p>
-
-- 🥇 *Winner* – University Hackathon 2024 (AI Track)  
-- 📜 *Certified* – Data Science with Python (Coursera)  
-- 🚀 Open Source Contributor in AI & Web projects  
-
----
-
-## 📫 Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/joy-biswas-257212345/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
-  <a href="mailto:bjoy1403@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
-</p>
+- 💼 [LinkedIn](https://www.linkedin.com/in/joy-biswas-257212345/)
+- 📧 [Email](mailto:bjoy1403@gmail.com)
+- 🌐 [Portfolio](https://joybiswas.dev) *(Coming Soon)*
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff4b1f,100:1fddff&height=100&section=footer"/>
-</p>
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=JoyBiswas1403&color=blueviolet&style=flat-square)
+  
+  *"Building the future, one commit at a time"* 💻✨
+
+</div>
