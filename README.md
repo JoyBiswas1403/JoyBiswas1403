@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-I'm a **4th-year MTech student** specializing in **AI/ML, Data Science, and Full Stack Development** at VIT Bhopal. I build intelligent systems that solve real-world problems—from privacy-preserving federated learning frameworks to production-ready NLP applications.
+I'm a **Final-year MTech student** specializing in **AI/ML, Data Science, and Full Stack Development** at VIT Bhopal. I build intelligent systems that solve real-world problems—from privacy-preserving federated learning frameworks to production-ready NLP applications.
 
 - 🔭 Currently working on: **Federated Learning with Event-Triggered Privacy Anchors**
 - 🌱 Learning: **Advanced Deep Learning, MLOps, and Distributed Systems**
